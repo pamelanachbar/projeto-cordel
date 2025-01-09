@@ -84,7 +84,7 @@ main p{
 
 #img1{
     background-image: url('imagens/background001.jpg');
-    background-position: right center;
+    background-position: center center;
     background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
